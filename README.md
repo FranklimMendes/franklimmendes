@@ -1,4 +1,4 @@
-## Hello! Eu sou Franklim Mendes
+## Olá! Eu sou Franklim Mendes
 
 - 🔭 Hoje trabalho como Analista de Rede
 - 🌱 Estudando HTML, CSS, Java, JavaScript, React, React-Native
