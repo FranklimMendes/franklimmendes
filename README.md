@@ -1,7 +1,7 @@
 ## Olá! Eu sou Franklim Mendes
 
-- 🔭 Hoje trabalho como Analista de Rede
-- 🌱 Estudando HTML, CSS, Java, JavaScript, React, React-Native
+- 🔭 Hoje trabalho como Analista de Desenvolvimento de Sistemas
+- 🌱 Atuando como Desenvolvedor Júnior C#
 - 👯 Estou colaborando no desenvolvimento Mobile na empresa DevsFree
 - 🤔 Sempre embusca de adquirir conhecimento
 - 😄 Pronouns: ele/dele 
