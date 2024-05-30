@@ -1,8 +1,7 @@
 ## Olá! Eu sou Franklim Mendes
 
 - 🔭 Hoje trabalho como Analista de Desenvolvimento de Sistemas
-- 🌱 Atuando como Desenvolvedor Júnior C#
-- 👯 Estou colaborando no desenvolvimento Mobile na empresa DevsFree
+- 🌱 Atuando como Full Stack Java na equipe de EDI
 - 🤔 Sempre embusca de adquirir conhecimento
 - 😄 Pronouns: ele/dele 
 
